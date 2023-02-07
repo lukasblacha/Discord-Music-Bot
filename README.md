@@ -10,7 +10,7 @@ Simple Music-Bot for Discord written in Python with <3
 ## How to start
 1. Clone the repository
 2. cd into it
-3. Run the **compiled** version: python3 Music-Bot.pyc -t TOKEN
+3. Run : python3 Music-Bot.pyc -t TOKEN
 4. Click on the invitation-Link in the terminal
 5. DONE <3
 
